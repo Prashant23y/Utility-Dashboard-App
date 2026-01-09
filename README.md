@@ -59,3 +59,6 @@ src/
 ## How to Run Locally
 - npm install
 - npm run dev
+
+### 🔗 Live Demo
+- https://utilitiez-dashboard.netlify.app/
