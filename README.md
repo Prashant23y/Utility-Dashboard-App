@@ -60,5 +60,5 @@ src/
 - npm install
 - npm run dev
 
-### 🔗 Live Demo
+## 🔗 Live Demo
 - https://utilitiez-dashboard.netlify.app/
