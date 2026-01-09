@@ -53,7 +53,7 @@ src/
 
 ## 📸 Screenshots
 
-- - ![Light Mode image link](image-1.png)
+- ![Light Mode image link](image-1.png)
 - ![Dark Mode image link](image.png)
 
 ## How to Run Locally
